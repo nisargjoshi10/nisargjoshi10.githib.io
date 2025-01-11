@@ -1,3 +1,7 @@
 title: Nisarg Joshi
+<<<<<<< HEAD
 logo: img/Picture1.jpg
+=======
+logo: /img/logo.png
+>>>>>>> 4ac8277a75df10eca66284fd398b7504688801c7
 theme: jekyll-theme-minimal
